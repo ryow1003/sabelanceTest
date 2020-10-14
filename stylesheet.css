@@ -341,7 +341,7 @@ footer img{
 
 /* PARALLAX */
 .parallax{
-  background-position:center top;
+  background-position:center;
   background-repeat:no-repeat;
   background-size:cover;
 }
